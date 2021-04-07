@@ -2,3 +2,13 @@
     text-align:center;
     line-height: 200px;
 }
+
+.nested {
+    text-align:center;
+    line-height: 200px;
+    height: 100%;
+    min-height: 200px;
+    background-color: #F07F80;
+    border: 1px solid white;
+    margin: 5px;
+}
